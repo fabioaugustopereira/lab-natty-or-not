@@ -20,29 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Testando a Ferramenta
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de avatar para testar as tecnologias existentes na geração de soluções em IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O "D-ID" foi essencial para criar um avatar virtual com voz sintetizada, não foi nada muito elaborado, apenas um teste inicial servindo como exercício de manipulação da ferramenta.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado pode ser avaliado através do vídeo: https://youtube.com/shorts/xrtZ6jskmz8
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Devemos ter cuidado com a criação de conteúdos, principalmente se for utilizado conteúdos com pessoas públicas, temas religiosos e qualquer outro tema sensível à sociedade.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
